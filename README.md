@@ -48,7 +48,7 @@ Git introduction workshop held to introduce students to Open Source
 - My Brothers run this club
 
 ### Ashutosh Varma
-- CSE 1st Year
+#- CSE 1st Year
 
 ### Vivek Sharma
 - IT 2nd Year
@@ -106,3 +106,5 @@ Git introduction workshop held to introduce students to Open Source
 ### Sakshi Verma
 - BBA.LLB 3rd Year
 
+### Tanmay gupta
+- ECE 1st year
